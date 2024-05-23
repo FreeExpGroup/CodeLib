@@ -14,6 +14,8 @@ CodeLib 是一个旨在公开分享项目组已发表论文相关代码的GitHub
 
 ## Models
 
+- CLIP(VIT-B/16)
+
 ## License
 
 This project is licensed under MIT License Version. By contributing to the project, you agree to the license and copyright terms therein and release your contribution under these terms.
