@@ -14,16 +14,18 @@ CodeLib 是一个旨在公开分享项目组已发表论文相关代码的GitHub
 
 ## Models
 
-## 使用说明
+## License
 
-请先阅读相关论文，了解算法的基本原理和实现细节。然后可以根据需要克隆或下载本仓库，根据提供的文档和示例进行使用。
+This project is licensed under MIT License Version. By contributing to the project, you agree to the license and copyright terms therein and release your contribution under these terms.
 
-## 许可证
+## Citation
 
-本仓库使用 [Apache-2.0](LICENSE) 许可证。
-
-## 联系信息
-
-如有任何问题或建议，请通过以下方式与我们联系：
-
-- 电子邮件：example@example.com
+@article{openfl_citation,
+	author={Foley, Patrick and Sheller, Micah J and Edwards, Brandon and Pati, Sarthak and Riviera, Walter and Sharma, Mansi and Moorthy, Prakash Narayana and Wang, Shi-han and Martin, Jason and Mirhaji, Parsa and Shah, Prashant and Bakas, Spyridon},
+	title={OpenFL: the open federated learning library},
+	journal={Physics in Medicine \& Biology},
+	url={http://iopscience.iop.org/article/10.1088/1361-6560/ac97d9},
+	year={2022},
+	doi={10.1088/1361-6560/ac97d9},
+	publisher={IOP Publishing}
+}
