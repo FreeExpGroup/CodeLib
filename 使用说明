@@ -1,0 +1,11 @@
+## Dataset
+数据文件夹放在../dataset/目录下
+读取的label文件在../dataset/csv_folder目录下
+
+
+## run
+- 进入../methods路径下, 执行train_CoOp.py
+'''
+python train_CoOp.py --dataset Hospital_Keratosis --iters 100 --wk_iters 1 --lr 1e-03 --N_CTX 16 --CSC False --net ViT-B/16 --seed 42 
+'''
+
